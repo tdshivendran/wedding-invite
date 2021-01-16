@@ -1,6 +1,6 @@
 # Wedding Invite
 
-React Redux Kit is a react boilerplate application for building web apps using react, material-ui, redux, saga middleware, react-router and redux-persist. This kit serves as a starting point for creating complex single page apps for starters and helps to keep the best practices.
+App built using using react, material-ui, redux, saga middleware, react-router and redux-persist.
 
 ## App Layout
 
