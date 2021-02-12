@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a743f64f2c2457ae3c981814d88f9f03",
+    "revision": "f4c70cc1dbbb3d0b079b58e81f10d07b",
     "url": "/wedding-invite/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wedding-invite/static/css/2.f42e59c9.chunk.css"
   },
   {
-    "revision": "8ed842308a943ed43701",
+    "revision": "d704022a024a46de8cf5",
     "url": "/wedding-invite/static/css/main.ae73ef39.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wedding-invite/static/js/2.75522788.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ed842308a943ed43701",
-    "url": "/wedding-invite/static/js/main.cca74401.chunk.js"
+    "revision": "d704022a024a46de8cf5",
+    "url": "/wedding-invite/static/js/main.ead0dd80.chunk.js"
   },
   {
     "revision": "c0949d3362e0b93e8139",
