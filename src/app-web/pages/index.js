@@ -3,11 +3,10 @@ import { Helmet } from "react-helmet";
 import { ToastContainer } from "react-toastify";
 import PropTypes from "prop-types";
 
-import { Route } from "react-router-dom";
+import { Route, Switch, HashRouter } from "react-router-dom";
 import { connect } from "react-redux";
 import { withRouter } from "react-router";
 
-import AppWrapper from "./wrapper";
 import UIComponents from "../../app-ui";
 import Core from "../../app-core";
 import "./index.css";
@@ -28,12 +27,14 @@ class Pages extends Component {
     return (
       <UIComponents.Theme type={theme}>
         <Helmet>
-          <title>React App</title>
+          <title>Teju-Hari Wedding Invite</title>
         </Helmet>
         <UIComponents.ErrorBoundry>
-          <AppWrapper>
-            <Route exact path="/" component={UIComponents.Page1} />
-          </AppWrapper>
+          <HashRouter>
+            <Switch>
+              <Route exact path="/" component={UIComponents.Page1} />
+            </Switch>
+          </HashRouter>
           <ToastContainer />
         </UIComponents.ErrorBoundry>
       </UIComponents.Theme>

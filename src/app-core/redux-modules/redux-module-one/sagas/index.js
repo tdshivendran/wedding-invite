@@ -27,7 +27,7 @@ function* runAppStart() {
   const userFlag = yield select(selectors.getUserFlag);
 
   if (!userFlag) {
-    yield call(toast.info, `Welcome, May I know your name?`, toastProps);
+    // yield call(toast.info, `Welcome, May I know your name?`, toastProps);
     yield cancel();
   }
 
