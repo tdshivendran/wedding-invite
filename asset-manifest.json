@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/wedding-invite/static/css/main.ae73ef39.chunk.css",
-    "main.js": "/wedding-invite/static/js/main.123341c4.chunk.js",
-    "main.js.map": "/wedding-invite/static/js/main.123341c4.chunk.js.map",
+    "main.js": "/wedding-invite/static/js/main.9d4f7626.chunk.js",
+    "main.js.map": "/wedding-invite/static/js/main.9d4f7626.chunk.js.map",
     "runtime-main.js": "/wedding-invite/static/js/runtime-main.c3667dc6.js",
     "runtime-main.js.map": "/wedding-invite/static/js/runtime-main.c3667dc6.js.map",
     "static/css/2.f42e59c9.chunk.css": "/wedding-invite/static/css/2.f42e59c9.chunk.css",
     "static/js/2.75522788.chunk.js": "/wedding-invite/static/js/2.75522788.chunk.js",
     "static/js/2.75522788.chunk.js.map": "/wedding-invite/static/js/2.75522788.chunk.js.map",
     "index.html": "/wedding-invite/index.html",
-    "precache-manifest.dd9f27801eca63f4e1927f4be8ae0d29.js": "/wedding-invite/precache-manifest.dd9f27801eca63f4e1927f4be8ae0d29.js",
+    "precache-manifest.a6a47c9997cba264ff5b7664f2857d7b.js": "/wedding-invite/precache-manifest.a6a47c9997cba264ff5b7664f2857d7b.js",
     "service-worker.js": "/wedding-invite/service-worker.js",
     "static/css/2.f42e59c9.chunk.css.map": "/wedding-invite/static/css/2.f42e59c9.chunk.css.map",
     "static/css/main.ae73ef39.chunk.css.map": "/wedding-invite/static/css/main.ae73ef39.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f42e59c9.chunk.css",
     "static/js/2.75522788.chunk.js",
     "static/css/main.ae73ef39.chunk.css",
-    "static/js/main.123341c4.chunk.js"
+    "static/js/main.9d4f7626.chunk.js"
   ]
 }
