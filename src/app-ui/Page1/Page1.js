@@ -114,11 +114,11 @@ const Page1 = props => {
             className={classes.dirLink}
             target="_blank"
             rel="noopener noreferrer"
-            href="https://maps.google.com/?q=17.4795901,78.59493850000001"
+            href="https://www.google.com/maps/place/LANDMARK+CONVENTIONS/@17.4790819,78.5950212,19.53z/data=!4m5!3m4!1s0x3bcb9c58c41b02b1:0x8e4eb8cfa95c7b6d!8m2!3d17.4788294!4d78.5958293"
           >
             <Typography align="center" style={{ fontSize: "0.7rem" }}>
-              Road Number 6, SV Nagar, Nagaram, Secunderabad, Telangana 500062,
-              India
+              TLN Marg, Rd Number 6, SV Nagar, Nagaram, Hyderabad, Telangana
+              500083
             </Typography>
           </a>
         </div>
